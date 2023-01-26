@@ -1,0 +1,15 @@
+1. Install  nodeJS
+2. npm create vite@latest client --template vanilla
+3. press (y) / choose vanilla/ javaScript
+4. u will see client folder created 
+5. go to client folder i.e .\client\   
+6. then type "npm install"
+7.to run npm run dev
+8. create server folder
+9. open terminal and go to server folder location
+10. typ npm init-y
+11. install npm install cors dotenv express nodemon openai
+12 create a js file in server
+13. get open AI API from openAi website
+14. copy the key and create a .env file outside the server
+15 to run server npm run server
