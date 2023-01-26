@@ -76,7 +76,7 @@ const handleSubmit = async (e) =>{
    loader(meaasgeDiv);
 
    // fetch data from server (Bt response)
-   const response = await fetch('https://afthab.onrender.com',{
+   const response = await fetch('https://afthab.onrender.com/',{
     method : 'POST',
     headers :{
       'Content-Type': 'application/json'
